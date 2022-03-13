@@ -12,8 +12,9 @@ body{
   margin: 0 auto;
   border: 2px solid black;
   padding: 4rem 1.5rem;
-  max-width: 300px;
+  max-width: 400px;
   border-radius: 5px;
+  min-width:300px;
 }
 .img{
     display: flex;
